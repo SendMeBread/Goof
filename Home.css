@@ -1,0 +1,18 @@
+html{
+    background-color: #000;
+}
+body{
+    font-size: 20pt;
+    color: #3dad46;
+}
+a {
+    font-size: 18pt;
+    color: #6b071f;
+}
+iframe{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50%;
+    margin-bottom: 50%;
+    display: block; 
+}
